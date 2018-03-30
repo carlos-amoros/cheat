@@ -1,6 +1,7 @@
 # MarkDown CheatSheet
 
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+[Sitio oficial](https://daringfireball.net/projects/markdown)
+[Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Cabeceras
 
