@@ -16,10 +16,9 @@ Como comenzar: [Hello World](https://guides.github.com/activities/hello-world/)
 * Como base dejamos ```master``` y comparamos con ```readme-edits```. Podemos ver las diferencias en el fichero. 
 * Hacemos click en ```Create Pull Request```. A continuación vemos el fichero, podemos editar el comentario y finalizar creando el pull request. 
 * Para finalizar podemos hacer Merge haciendo click en el botón correspondiente. Podemos incluir un comentario explicativo.
-* Obtenemos el mensaje ```Pull request successfully merged and closed```. Aparece la opcióon de borrar la rama si no vamos a usarla más. 
+* Obtenemos el mensaje ```Pull request successfully merged and closed```. Aparece la opción de borrar la rama si no vamos a usarla más. 
 
 [GitFlow](https://guides.github.com/introduction/flow/)
-
 
 ## Usando la línea de comandos
 
