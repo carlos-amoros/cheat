@@ -48,4 +48,5 @@ Como comenzar: [Hello World](https://guides.github.com/activities/hello-world/)
 * Si tenemos el mismo repositorio en dos dispositivos y queremos actualizarlo en local antes de modificar:
     * ```git pull origin master```
 
-* Tutorial: [Gittutorial](https://git-scm.com/docs/gittutorial)
+* [Gittutorial](https://git-scm.com/docs/gittutorial)
+* [Guía Sencilla](http://rogerdudler.github.io/git-guide/index.es.html)
